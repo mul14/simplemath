@@ -1,5 +1,5 @@
 {
-  "name": "simplemath",
+  "name": "@mul14/simplemath",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
